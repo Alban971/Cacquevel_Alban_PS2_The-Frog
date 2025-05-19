@@ -38,6 +38,7 @@
   "resources":[
     {"id":{"name":"oArc","path":"objects/oArc/oArc.yy",},},
     {"id":{"name":"oArrow","path":"objects/oArrow/oArrow.yy",},},
+    {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oDead","path":"objects/oDead/oDead.yy",},},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},},
     {"id":{"name":"oLevelEnd","path":"objects/oLevelEnd/oLevelEnd.yy",},},
@@ -48,6 +49,8 @@
     {"id":{"name":"rTwo","path":"rooms/rTwo/rTwo.yy",},},
     {"id":{"name":"SlideTransition","path":"scripts/SlideTransition/SlideTransition.yy",},},
     {"id":{"name":"shWhite","path":"shaders/shWhite/shWhite.yy",},},
+    {"id":{"name":"s_Back_01","path":"sprites/s_Back_01/s_Back_01.yy",},},
+    {"id":{"name":"s_Back_02","path":"sprites/s_Back_02/s_Back_02.yy",},},
     {"id":{"name":"sArc","path":"sprites/sArc/sArc.yy",},},
     {"id":{"name":"sArrow","path":"sprites/sArrow/sArrow.yy",},},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},},

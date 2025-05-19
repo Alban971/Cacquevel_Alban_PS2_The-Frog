@@ -2,6 +2,8 @@ hsp = 0;
 vsp = 0;
 grv = 0.3*16;
 walksp = 4*16;
+hascontrol = true;
+
 friction = 2*16;
 inertia = 0.;
 grap_x = mouse_x;

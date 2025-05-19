@@ -1,8 +1,17 @@
 //Get Player Input
 
-key_left = keyboard_check(vk_left) || keyboard_check(ord("Q"));
-key_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
-key_jump = keyboard_check_pressed(vk_space);
+if (hascontrol)
+{
+	key_left = keyboard_check(vk_left) || keyboard_check(ord("Q"));
+	key_right = keyboard_check(vk_right) || keyboard_check(ord("D"));
+	key_jump = keyboard_check_pressed(vk_space);
+}
+else
+{
+	key_right = 0;
+	key_left = 0;
+	key_jump = 0;
+}
 
 //Calculate Movement
 var move = key_right - key_left;
