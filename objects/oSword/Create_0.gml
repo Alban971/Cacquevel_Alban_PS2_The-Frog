@@ -1,0 +1,1 @@
+atkdelay = 0;
