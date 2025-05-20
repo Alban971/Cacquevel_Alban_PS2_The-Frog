@@ -6,8 +6,8 @@ hascontrol = true;
 
 friction = 2*16;
 inertia = 0.;
-grap_x = mouse_x;
-grap_y = mouse_y;
 is_grapping = false;
-grap_velocity_x = 0;
-grap_velocity_y = 0;
+mx = 0;
+my = 0;
+grap_sp = 0;
+is_click = false;
