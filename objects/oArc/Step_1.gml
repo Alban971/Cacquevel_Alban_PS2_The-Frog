@@ -7,10 +7,11 @@ firingdelay = firingdelay - 1;
 if (mouse_check_button(mb_left)) && (firingdelay < 0)
 {
 		firingdelay = 30;
+		audio_sound_pitch(snShot,choose(0.8,1.0,1.2));
 		audio_play_sound(snShot,5,false);
 		with (instance_create_layer(x,y,"Arrows",oArrow))
 		{
-			speed = 25*16;
+			spd = 25*16;
 			direction = other.image_angle + random_range(-3,3);
 			image_angle = direction;
 		}
