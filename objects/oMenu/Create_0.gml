@@ -2,7 +2,7 @@
 
 gui_width = display_get_gui_width();
 gui_height = display_get_gui_height();
-gui_margin = 32*16;
+gui_margin = 32;
 
 menu_x = gui_width +200;
 menu_y = gui_height - gui_margin;
@@ -18,4 +18,8 @@ menu[1] = "Continue";
 menu[0] = "Quit";
 
 menu_items = array_length(menu);
+
+menu_top = menu_y - ((menu_itemheight * 1.5) * menu_items);
+
 menu_cursor = 2;
+
