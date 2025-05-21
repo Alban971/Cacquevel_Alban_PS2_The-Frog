@@ -7,6 +7,7 @@ firingdelay = firingdelay - 1;
 if (mouse_check_button(mb_left)) && (firingdelay < 0)
 {
 		firingdelay = 30;
+		audio_play_sound(snShot,5,false);
 		with (instance_create_layer(x,y,"Arrows",oArrow))
 		{
 			speed = 25*16;

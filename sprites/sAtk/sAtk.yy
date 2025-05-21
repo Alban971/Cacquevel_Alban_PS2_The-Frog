@@ -29,7 +29,7 @@
   ],
   "name":"sAtk",
   "nineSlice":null,
-  "origin":4,
+  "origin":9,
   "parent":{
     "name":"Sprites",
     "path":"folders/Sprites.yy",
@@ -99,7 +99,7 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":256,
+    "xorigin":-256,
     "yorigin":256,
   },
   "swatchColours":null,

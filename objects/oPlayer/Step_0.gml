@@ -50,6 +50,8 @@ if (place_meeting(x,y+vsp,oWall))
 }
 y = (y + vsp);
 
+
+
 //Animation
 if (!place_meeting(x,y+1,oWall))
 {
