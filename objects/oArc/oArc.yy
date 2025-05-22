@@ -9,8 +9,8 @@
   "name":"oArc",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Weapon",
+    "path":"folders/Objects/Weapon.yy",
   },
   "parentObjectId":null,
   "persistent":false,

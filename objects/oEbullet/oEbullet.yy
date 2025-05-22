@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"oDead",
+  "%Name":"oEbullet",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oDead",
+  "name":"oEbullet",
   "overriddenProperties":[],
   "parent":{
     "name":"Enemy",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sEnemyD",
-    "path":"sprites/sEnemyD/sEnemyD.yy",
+    "name":"sEbullet",
+    "path":"sprites/sEbullet/sEbullet.yy",
   },
   "spriteMaskId":null,
   "visible":true,
