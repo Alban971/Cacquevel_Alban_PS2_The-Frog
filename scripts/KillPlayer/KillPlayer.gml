@@ -3,6 +3,7 @@ function KillPlayer()
 {
 	with (oArc) instance_destroy();
 	with (oSword) instance_destroy();
+	with (oAtk) instance_destroy();
 	instance_change(oPDead,true);
 
 	direction = point_direction(other.x,other.y,x,y);

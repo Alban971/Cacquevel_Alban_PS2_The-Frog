@@ -41,6 +41,7 @@
   },
   "name":"Cacquevel_Alban_Plateformer",
   "resources":[
+    {"id":{"name":"fEnd","path":"fonts/fEnd/fEnd.yy",},},
     {"id":{"name":"fMenu","path":"fonts/fMenu/fMenu.yy",},},
     {"id":{"name":"fSign","path":"fonts/fSign/fSign.yy",},},
     {"id":{"name":"oArc","path":"objects/oArc/oArc.yy",},},
@@ -53,6 +54,7 @@
     {"id":{"name":"oDust","path":"objects/oDust/oDust.yy",},},
     {"id":{"name":"oEbullet","path":"objects/oEbullet/oEbullet.yy",},},
     {"id":{"name":"oEgun","path":"objects/oEgun/oEgun.yy",},},
+    {"id":{"name":"oEnding","path":"objects/oEnding/oEnding.yy",},},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},},
     {"id":{"name":"oGame","path":"objects/oGame/oGame.yy",},},
     {"id":{"name":"oHitSpark","path":"objects/oHitSpark/oHitSpark.yy",},},
@@ -66,6 +68,7 @@
     {"id":{"name":"oTransition","path":"objects/oTransition/oTransition.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
     {"id":{"name":"pShootable","path":"objects/pShootable/pShootable.yy",},},
+    {"id":{"name":"rEnding","path":"rooms/rEnding/rEnding.yy",},},
     {"id":{"name":"rMenu","path":"rooms/rMenu/rMenu.yy",},},
     {"id":{"name":"rOne","path":"rooms/rOne/rOne.yy",},},
     {"id":{"name":"rTwo","path":"rooms/rTwo/rTwo.yy",},},
@@ -115,6 +118,7 @@
     {"roomId":{"name":"rMenu","path":"rooms/rMenu/rMenu.yy",},},
     {"roomId":{"name":"rOne","path":"rooms/rOne/rOne.yy",},},
     {"roomId":{"name":"rTwo","path":"rooms/rTwo/rTwo.yy",},},
+    {"roomId":{"name":"rEnding","path":"rooms/rEnding/rEnding.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
