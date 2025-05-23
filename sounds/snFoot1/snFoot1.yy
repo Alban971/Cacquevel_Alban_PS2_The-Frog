@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":2.977959,
+  "duration":0.08127,
   "name":"snFoot1",
   "parent":{
     "name":"Sounds",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snFoot1.mp3",
+  "soundFile":"snFoot1.wav",
   "type":0,
   "volume":1.0,
 }
