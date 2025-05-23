@@ -133,4 +133,15 @@ if (mouse_check_button_released(mb_right))
 	is_grapping = true;
 }
 
-//Sword
+//Invincible
+if (SafeFrame = true)
+{
+	draw_set_alpha(0.5);
+	draw_set_colour(c_orange);
+}
+
+//Death
+if (PV <= 0)
+{
+	KillPlayer();
+}

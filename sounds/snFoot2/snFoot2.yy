@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.084172,
+  "duration":0.324172,
   "name":"snFoot2",
   "parent":{
     "name":"Sounds",

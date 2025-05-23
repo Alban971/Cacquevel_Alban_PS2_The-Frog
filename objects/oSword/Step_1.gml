@@ -7,6 +7,8 @@ atkdelay = atkdelay - 1;
 if (mouse_check_button(mb_left)) && (atkdelay < 0)
 {
 		atkdelay = 20;
+		audio_sound_pitch(snSlash,choose(0.8,1.0,1.2));
+		audio_play_sound(snSlash,5,false);
 		with (instance_create_layer(x,y,"Atk",oAtk))
 		{
 			direction = other.image_angle;

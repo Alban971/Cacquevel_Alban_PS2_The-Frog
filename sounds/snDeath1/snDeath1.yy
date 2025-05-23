@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snFoot4",
+  "%Name":"snDeath1",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.328526,
-  "name":"snFoot4",
+  "duration":0.491247,
+  "name":"snDeath1",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snFoot4.wav",
+  "soundFile":"snDeath1.wav",
   "type":0,
   "volume":1.0,
 }
