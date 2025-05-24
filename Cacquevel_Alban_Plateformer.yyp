@@ -75,6 +75,7 @@
     {"id":{"name":"DrawSetText","path":"scripts/DrawSetText/DrawSetText.yy",},},
     {"id":{"name":"KillPlayer","path":"scripts/KillPlayer/KillPlayer.yy",},},
     {"id":{"name":"SlideTransition","path":"scripts/SlideTransition/SlideTransition.yy",},},
+    {"id":{"name":"shOrange","path":"shaders/shOrange/shOrange.yy",},},
     {"id":{"name":"shWhite","path":"shaders/shWhite/shWhite.yy",},},
     {"id":{"name":"snDeath1","path":"sounds/snDeath1/snDeath1.yy",},},
     {"id":{"name":"snDeath2","path":"sounds/snDeath2/snDeath2.yy",},},

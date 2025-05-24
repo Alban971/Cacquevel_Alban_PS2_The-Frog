@@ -103,43 +103,6 @@ if (place_meeting(x,y+1,oWall))
 	friction = 0;
 }
 
-//Grapin
-if (mouse_check_button_pressed(mb_right))
-{
-	mx = mouse_x;
-	my = mouse_y;
-
-	is_click = true;
-	grap_sp = 0;
-}
-if (is_click = true)
-{
-grap_sp += 0.005;
-show_debug_message(grap_sp);
-}
-if (is_grapping = true)
-{
-	//gravity = 0.1;
-	x += (mx - x) * grap_sp;
-	y += (my - y) * grap_sp;
-	if(alarm_get(1) <=0)
-	{
-		alarm_set(1,60)
-	}
-}
-if (mouse_check_button_released(mb_right))
-{
-	is_click = false;
-	is_grapping = true;
-}
-
-//Invincible
-if (SafeFrame = true)
-{
-	draw_set_alpha(0.5);
-	draw_set_colour(c_orange);
-}
-
 //Death
 if (PV <= 0)
 {
