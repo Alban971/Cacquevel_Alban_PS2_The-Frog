@@ -179,6 +179,7 @@
     {"name":"inst_55BC6A1D","path":"rooms/rOne/rOne.yy",},
     {"name":"inst_7C13209B","path":"rooms/rOne/rOne.yy",},
     {"name":"inst_45FC0E9D","path":"rooms/rOne/rOne.yy",},
+    {"name":"inst_49085B43","path":"rooms/rOne/rOne.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -193,6 +194,7 @@
         {"$GMRInstance":"v1","%Name":"inst_6E4B5246","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6E4B5246","objectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3584.0,"y":8192.0,},
         {"$GMRInstance":"v1","%Name":"inst_6ABADCE4","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6ABADCE4","objectId":{"name":"oLevelEnd","path":"objects/oLevelEnd/oLevelEnd.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":37364.0,"y":6908.0,},
         {"$GMRInstance":"v1","%Name":"inst_3E57E7DE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3E57E7DE","objectId":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":33.0,"scaleY":33.0,"x":4608.0,"y":3072.0,},
+        {"$GMRInstance":"v1","%Name":"inst_49085B43","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_49085B43","objectId":{"name":"oHead","path":"objects/oHead/oHead.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3584.0,"y":8192.0,},
       ],"layers":[],"name":"Player","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Enemy","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_13B44117","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_13B44117","objectId":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":17440.0,"y":5024.0,},
@@ -399,7 +401,7 @@
   },
   "sequenceId":null,
   "views":[
-    {"hborder":10000,"hport":1080,"hspeed":-1,"hview":9216,"inherit":false,"objectId":null,"vborder":10000,"visible":true,"vspeed":-1,"wport":1920,"wview":16384,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":10000,"hport":1080,"hspeed":-1,"hview":6480,"inherit":false,"objectId":null,"vborder":10000,"visible":true,"vspeed":-1,"wport":1920,"wview":11520,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
