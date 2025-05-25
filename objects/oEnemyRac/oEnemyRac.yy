@@ -45,8 +45,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sEnemy",
-    "path":"sprites/sEnemy/sEnemy.yy",
+    "name":"sRac",
+    "path":"sprites/sRac/sRac.yy",
   },
   "spriteMaskId":{
     "name":"sPlayer",

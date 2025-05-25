@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sEgun",
-    "path":"sprites/sEgun/sEgun.yy",
+    "name":"sERgun",
+    "path":"sprites/sERgun/sERgun.yy",
   },
   "spriteMaskId":null,
   "visible":true,
