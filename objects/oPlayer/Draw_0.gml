@@ -4,5 +4,6 @@ draw_self();
 if (SafeFrame = true)
 {
 	shader_set(shOrange);
-	alarm_set(3,60);
+	draw_self();
+	shader_reset();
 }

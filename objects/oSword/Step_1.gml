@@ -4,7 +4,7 @@ y = oPlayer.y;
 image_angle = point_direction(x,y,mouse_x,mouse_y);
 
 atkdelay = atkdelay - 1;
-if (mouse_check_button(mb_left)) && (atkdelay < 0)
+if (mouse_check_button_pressed(mb_left)) && (atkdelay < 0)
 {
 		atkdelay = 20;
 		audio_sound_pitch(snSlash,choose(0.8,1.0,1.2));

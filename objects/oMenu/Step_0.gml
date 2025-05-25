@@ -22,7 +22,7 @@ if (menu_control)
 		menu_x_target = gui_width+200;
 		menu_committed = menu_cursor;
 		menu_control = false;
-		audio_play_sound(snDeath1,10,false);
+		audio_play_sound(snMenu,10,false);
 	}
 	
 	var mouse_y_gui = device_mouse_y_to_gui(0);
@@ -35,6 +35,7 @@ if (menu_control)
 			menu_x_target = gui_width+200;
 			menu_committed = menu_cursor;
 			menu_control = false;
+			audio_play_sound(snMenu,10,false);
 		}
 	}
 }
