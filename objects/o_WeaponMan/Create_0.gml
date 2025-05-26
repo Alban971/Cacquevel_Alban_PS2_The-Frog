@@ -1,0 +1,2 @@
+haveArc = false
+haveSword = false

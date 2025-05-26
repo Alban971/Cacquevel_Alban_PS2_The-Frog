@@ -8,3 +8,6 @@ letters = 0;
 currentline = 0;
 length = string_length(endtext[currentline]);
 text = "";
+
+instance_destroy(oSword);
+instance_destroy(oArc);
