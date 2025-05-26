@@ -1,5 +1,7 @@
 vsp = vsp + grv;
-
+grv = random_range(-0.5,0.5);
+walksp = random_range(1*16,3*16);
+show_debug_message(grv)
 //Don't walk off edges
 if (grounded) && (afraidofheights) && (!place_meeting(x+hsp,y+1,oWall))
 {
