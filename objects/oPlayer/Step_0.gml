@@ -106,5 +106,8 @@ if (place_meeting(x,y+1,oWall))
 //Death
 if (PV <= 0)
 {
+	instance_destroy(oArc);
+	instance_destroy(oSword);
+	instance_destroy(oWeaponMan);
 	KillPlayer();
 }

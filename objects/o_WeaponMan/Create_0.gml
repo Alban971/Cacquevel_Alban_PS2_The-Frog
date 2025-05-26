@@ -1,2 +1,0 @@
-haveArc = false
-haveSword = false

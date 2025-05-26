@@ -1,4 +1,5 @@
 /// @desc Equip Sword
 
-instance_create_layer(oPlayer.x,oPlayer.y,"Weapon",oSword);
+global.haveSword = true;
+oWeaponMan.weaponEquip = "Sword";
 instance_destroy();

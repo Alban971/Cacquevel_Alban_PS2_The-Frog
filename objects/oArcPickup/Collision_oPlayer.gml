@@ -1,4 +1,5 @@
 /// @desc Equip Arc
 
-instance_create_layer(oPlayer.x,oPlayer.y,"Weapon",oArc);
+global.haveArc = true;
+oWeaponMan.weaponEquip = "Arc";
 instance_destroy();
