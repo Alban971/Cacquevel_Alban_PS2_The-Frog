@@ -7,6 +7,7 @@ else if is_big
 {
 	image_xscale -= 0.1;
 	image_yscale -= 0.1;
+	can_atk = false;
 }
 else
 {
@@ -22,6 +23,7 @@ switch image_index
 	case 0:
 	case 1:
 	case 2:
+	case 9:
 		can_atk = false;
 	break;
 	case 3:
