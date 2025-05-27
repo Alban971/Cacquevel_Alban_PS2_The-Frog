@@ -1,6 +1,6 @@
 if !SafeFrame
 {
-	with (instance_place(x,y,oBossStraight))
+	with (instance_place(x,y,oBossKill))
 	{
 		global.bossHP -= 2;
 		flash = 3;
