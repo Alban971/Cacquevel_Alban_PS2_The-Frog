@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SpawnBoss",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SpawnBoss",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

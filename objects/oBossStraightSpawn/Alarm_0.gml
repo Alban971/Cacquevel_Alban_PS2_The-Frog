@@ -1,9 +1,13 @@
-if oPlayer
+/*if oPlayer
 {
-	if not instance_exists(oBossFront) and not instance_exists(oBossStraight)
+	if not instance_exists(oBossKill)
 	{
-		instance_create_layer(x, y, "Enemy", oBossStraight);
-		alarm_set(0, irandom_range(60*2, 60*6));
+		if stSpawn == true
+		{
+			instance_create_layer(x, y, "Enemy", oBossStraight);
+			alarm_set(0, irandom_range(60*2, 60*6));
+			stSpawn =false;
+		}
 	}
 	else
 	{
