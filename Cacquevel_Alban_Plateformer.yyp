@@ -141,6 +141,7 @@
     {"id":{"name":"sSign","path":"sprites/sSign/sSign.yy",},},
     {"id":{"name":"sSword","path":"sprites/sSword/sSword.yy",},},
     {"id":{"name":"sSword1","path":"sprites/sSword1/sSword1.yy",},},
+    {"id":{"name":"sTileset","path":"sprites/sTileset/sTileset.yy",},},
     {"id":{"name":"sTitle","path":"sprites/sTitle/sTitle.yy",},},
     {"id":{"name":"sTrigger","path":"sprites/sTrigger/sTrigger.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
@@ -150,8 +151,8 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rMenu","path":"rooms/rMenu/rMenu.yy",},},
-    {"roomId":{"name":"rBoss","path":"rooms/rBoss/rBoss.yy",},},
     {"roomId":{"name":"rOne","path":"rooms/rOne/rOne.yy",},},
+    {"roomId":{"name":"rBoss","path":"rooms/rBoss/rBoss.yy",},},
     {"roomId":{"name":"rTwo","path":"rooms/rTwo/rTwo.yy",},},
     {"roomId":{"name":"rEnding","path":"rooms/rEnding/rEnding.yy",},},
   ],
