@@ -38,7 +38,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"Cacquevel_Alban_Plateformer",
   "resources":[
@@ -110,6 +110,7 @@
     {"id":{"name":"snSlash","path":"sounds/snSlash/snSlash.yy",},},
     {"id":{"name":"s_Back_01","path":"sprites/s_Back_01/s_Back_01.yy",},},
     {"id":{"name":"s_Back_02","path":"sprites/s_Back_02/s_Back_02.yy",},},
+    {"id":{"name":"s_Back_03","path":"sprites/s_Back_03/s_Back_03.yy",},},
     {"id":{"name":"sArc","path":"sprites/sArc/sArc.yy",},},
     {"id":{"name":"sArc1","path":"sprites/sArc1/sArc1.yy",},},
     {"id":{"name":"sArrow","path":"sprites/sArrow/sArrow.yy",},},
@@ -133,6 +134,7 @@
     {"id":{"name":"sMenu_Back_01","path":"sprites/sMenu_Back_01/sMenu_Back_01.yy",},},
     {"id":{"name":"sMenu_Back_02","path":"sprites/sMenu_Back_02/sMenu_Back_02.yy",},},
     {"id":{"name":"sMenu_Back_03","path":"sprites/sMenu_Back_03/sMenu_Back_03.yy",},},
+    {"id":{"name":"sMenu_Back_04","path":"sprites/sMenu_Back_04/sMenu_Back_04.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sPlayerA","path":"sprites/sPlayerA/sPlayerA.yy",},},
     {"id":{"name":"sPlayerD","path":"sprites/sPlayerD/sPlayerD.yy",},},

@@ -35,4 +35,9 @@ if (room != rMenu) &&  (room != rEnding)
 	{
 		layer_x("Trees",x/3);
 	}
+	
+	if (layer_exists("Leafs"))
+	{
+		layer_x("Leafs",x/5);
+	}
 }

@@ -2,17 +2,17 @@
   "$GMSprite":"",
   "%Name":"s_Back_01",
   "bboxMode":0,
-  "bbox_bottom":7679,
+  "bbox_bottom":6238,
   "bbox_left":0,
-  "bbox_right":10239,
-  "bbox_top":2348,
+  "bbox_right":15359,
+  "bbox_top":448,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"42b8152a-45bf-4eb3-911f-9ff5e4f165ea","name":"42b8152a-45bf-4eb3-911f-9ff5e4f165ea","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"d33a460d-39f1-408c-82a8-18788f4da131","name":"d33a460d-39f1-408c-82a8-18788f4da131","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"42b8152a-45bf-4eb3-911f-9ff5e4f165ea","path":"sprites/s_Back_01/s_Back_01.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"084ba94b-a003-4450-89b4-b86228937465","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d33a460d-39f1-408c-82a8-18788f4da131","path":"sprites/s_Back_01/s_Back_01.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"5213ba08-6a0d-4a19-9298-570de07e386d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":10240,
+  "width":15360,
 }
