@@ -10,4 +10,5 @@ if (point_in_circle(oPlayer.x,oPlayer.y,x,y,64*16)) && (!instance_exists(oText))
 	{
 		follow = other.id;
 	}
+	image_index = 0;
 }
