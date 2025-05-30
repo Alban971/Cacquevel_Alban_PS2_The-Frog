@@ -44,7 +44,6 @@
     {"name":"inst_6CDCF38B","path":"rooms/rBoss/rBoss.yy",},
     {"name":"inst_21F54EBE","path":"rooms/rBoss/rBoss.yy",},
     {"name":"inst_3BBAD39C","path":"rooms/rBoss/rBoss.yy",},
-    {"name":"inst_7FD3F19","path":"rooms/rBoss/rBoss.yy",},
     {"name":"inst_8AE08F0","path":"rooms/rBoss/rBoss.yy",},
   ],
   "isDnd":false,
@@ -61,7 +60,6 @@
     {"$GMRInstanceLayer":"","%Name":"Arrows","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Arrows","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Weapon","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_3BBAD39C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3BBAD39C","objectId":{"name":"oSword","path":"objects/oSword/oSword.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":9312.0,"y":16896.0,},
-        {"$GMRInstance":"v1","%Name":"inst_7FD3F19","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7FD3F19","objectId":{"name":"oArcPickup","path":"objects/oArcPickup/oArcPickup.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3776.0,"y":15936.0,},
         {"$GMRInstance":"v1","%Name":"inst_8AE08F0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_8AE08F0","objectId":{"name":"oWeaponMan","path":"objects/oWeaponMan/oWeaponMan.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":33.749996,"scaleY":33.749996,"x":3328.0,"y":3068.0,},
       ],"layers":[],"name":"Weapon","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Player","depth":600,"effectEnabled":true,"effectType":null,"gridX":512,"gridY":512,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
