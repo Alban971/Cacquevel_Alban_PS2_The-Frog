@@ -7,3 +7,6 @@ if (hasweapon)
 	}
 }
 else mygun = noone;
+sprite_index = sEnemyA;
+image_xscale = 2;
+image_yscale = 2;
