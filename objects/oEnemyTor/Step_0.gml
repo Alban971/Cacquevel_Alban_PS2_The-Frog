@@ -32,7 +32,7 @@ y = y + vsp;
 if (!place_meeting(x,y+1,oWall))
 {
 	grounded = false;
-	sprite_index = sEnemyA;
+	sprite_index = sEnemy;
 	image_speed = 0;
 	if (sign(vsp) > 0) image_index = 1; else image_index = 0;
 }
