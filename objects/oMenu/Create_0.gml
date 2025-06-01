@@ -23,3 +23,6 @@ menu_top = menu_y - ((menu_itemheight * 1.5) * menu_items);
 
 menu_cursor = 2;
 
+//song
+audio_play_sound(snJungleAmbiance,10,true);
+audio_play_sound(snJungleMusic,10,true);

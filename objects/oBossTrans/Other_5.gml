@@ -1,0 +1,1 @@
+audio_play_sound(snBossMusic,1,true);
