@@ -105,6 +105,7 @@
     {"id":{"name":"shOrange","path":"shaders/shOrange/shOrange.yy",},},
     {"id":{"name":"shWhite","path":"shaders/shWhite/shWhite.yy",},},
     {"id":{"name":"snAie","path":"sounds/snAie/snAie.yy",},},
+    {"id":{"name":"snBossKill","path":"sounds/snBossKill/snBossKill.yy",},},
     {"id":{"name":"snBossMusic","path":"sounds/snBossMusic/snBossMusic.yy",},},
     {"id":{"name":"snDeath1","path":"sounds/snDeath1/snDeath1.yy",},},
     {"id":{"name":"snDeath2","path":"sounds/snDeath2/snDeath2.yy",},},
