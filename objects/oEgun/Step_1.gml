@@ -21,7 +21,7 @@ if (instance_exists(oPlayer))
 				with (instance_create_layer(x,y,"Arrows",oEbullet))
 				{
 					spd = 10*16;
-					direction = other.image_angle + random_range(-3,3);
+					direction = other.image_angle + random_range(-10,10);
 					image_angle = direction;
 				}
 			}
