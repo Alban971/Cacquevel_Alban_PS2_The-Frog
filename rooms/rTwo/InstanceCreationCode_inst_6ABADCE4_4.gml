@@ -1,1 +1,1 @@
-target = rBoss;
+target = rBossTrans;

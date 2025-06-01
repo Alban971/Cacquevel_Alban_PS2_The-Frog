@@ -45,6 +45,8 @@
     {"name":"inst_4EB4CF85","path":"rooms/rTuto/rTuto.yy",},
     {"name":"inst_19EEB891","path":"rooms/rTuto/rTuto.yy",},
     {"name":"inst_67DC8DDE","path":"rooms/rTuto/rTuto.yy",},
+    {"name":"inst_1D6DCF4C","path":"rooms/rTuto/rTuto.yy",},
+    {"name":"inst_16F6A77D","path":"rooms/rTuto/rTuto.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -88,6 +90,8 @@
         {"$GMRInstance":"v1","%Name":"inst_67DC8DDE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_67DC8DDE","objectId":{"name":"oSign","path":"objects/oSign/oSign.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"oSign","path":"objects/oSign/oSign.yy",},"propertyId":{"name":"text","path":"objects/oSign/oSign.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"Grace a ta lance,\\n tu peux detruire les feuillages qui\\n bloquent ton passage.\"",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":37373.0,"y":7954.0,},
+        {"$GMRInstance":"v1","%Name":"inst_1D6DCF4C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1D6DCF4C","objectId":{"name":"oE","path":"objects/oE/oE.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":8852.0,"y":7120.0,},
+        {"$GMRInstance":"v1","%Name":"inst_16F6A77D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_16F6A77D","objectId":{"name":"oQD","path":"objects/oQD/oQD.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":6144.0,"y":7680.0,},
       ],"layers":[],"name":"Entities","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Walls","depth":800,"effectEnabled":true,"effectType":null,"gridX":512,"gridY":512,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_45FC0E9D_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_45FC0E9D_1","objectId":{"name":"oCrate","path":"objects/oCrate/oCrate.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":38400.0,"y":7680.0,},

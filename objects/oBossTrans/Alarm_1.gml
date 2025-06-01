@@ -1,0 +1,1 @@
+audio_play_sound(snSerp_cri,1,false);

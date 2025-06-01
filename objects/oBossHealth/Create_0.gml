@@ -1,2 +1,2 @@
 //bossHP = 100;
-bossHP = 50;
+bossHP = 80;

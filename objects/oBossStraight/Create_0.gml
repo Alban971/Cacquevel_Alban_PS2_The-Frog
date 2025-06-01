@@ -5,4 +5,6 @@ image_xscale = 4;
 image_yscale = 4;
 speed = 64*3;
 if (oPlayer.x < x) image_yscale = -image_yscale;
-alarm_set(1, 60*5);
+audio_sound_pitch(snSerp_cri,choose(0.8,1.0,1.2));
+audio_play_sound(snSerp_cri,5,false);
+alarm_set(1, 60*4);
