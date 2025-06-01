@@ -1,7 +1,7 @@
 layer_get_id("TitleAssets");
-endtext[0] = "You made it...";
-endtext[1] = "You managed to kill the snake of the death...";
-endtext[2] = "And you saved the frogs world !";
+endtext[0] = "Tu as réussi...";
+endtext[1] = "Tu as vaincu Shade...";
+endtext[2] = "Et tu as sauvé la jungle de ses térribles agissements !";
 
 spd = 0.5;
 letters = 0;
